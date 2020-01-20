@@ -1,4 +1,4 @@
-# (Português) Viação Trevisan
+# Aplicativo de notas
 
 ## Ferramentas usadas
 
